@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "学习/学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "学习"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "学习/学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "学习 的反向链接列表"
             }
           },
           {
@@ -173,8 +173,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de0f2f4660c75b6b",
+  "active": "e4433ec0a0025b91",
   "lastOpenFiles": [
-    "欢迎.md"
+    "生活/日常.md",
+    "学习/学习.md",
+    "面试/面试.md",
+    "工作常用/工作常用.md",
+    "ReadMe.md",
+    "生活",
+    "面试",
+    "工作常用",
+    "学习",
+    "附件/Pasted image 20241204153244.png",
+    "附件/Pasted image 20241204153124.png",
+    "附件/Pasted image 20241204153016.png",
+    "附件/Pasted image 20241204152704.png",
+    "附件"
   ]
 }
